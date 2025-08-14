@@ -1,0 +1,121 @@
+{
+  "greeting": [
+    "hello",
+    "hi",
+    "hey",
+    "good morning",
+    "good evening",
+    "bye"
+  ],
+  "what_is_mf": [
+    "what is a mutual fund",
+    "explain mutual fund",
+    "define mutual fund",
+    "mutual fund info",
+    "mf"
+  ],
+  "types": [
+    "types of mutual funds",
+    "different mutual funds",
+    "mutual fund categories",
+    "fund types"
+  ],
+  "nav_info": [
+    "what is nav",
+    "nav today",
+    "mutual fund nav",
+    "nav value"
+  ],
+  "how_to_invest": [
+    "how to invest",
+    "start investing",
+    "buy mutual fund",
+    "invest in mutual fund",
+    "investment process"
+  ],
+  "minimum_investment_amount": [
+    "minimum investment",
+    "lowest amount to invest",
+    "min invest amount",
+    "starting investment amount"
+  ],
+  "sip": [
+    "what is sip",
+    "sip meaning",
+    "sip plan",
+    "systematic investment plan"
+  ],
+  "lumpsum": [
+    "what is lumpsum",
+    "lump sum investment",
+    "invest lumpsum",
+    "one time investment"
+  ],
+  "which_is_better_sip_lumpsum": [
+    "sip vs lumpsum",
+    "which is better sip or lumpsum",
+    "sip or lumpsum investment",
+    "difference between sip and lumpsum"
+  ],
+  "tax_benefits": [
+    "tax benefits mutual funds",
+    "elss tax benefits",
+    "mutual fund tax saving",
+    "section 80c benefits"
+  ],
+  "taxation": [
+    "mutual fund taxation",
+    "tax on mutual funds",
+    "long term capital gains tax",
+    "short term capital gains tax"
+  ],
+  "risk": [
+    "mutual fund risk",
+    "risk in mutual funds",
+    "are mutual funds risky",
+    "market risks mutual funds"
+  ],
+  "redemption": [
+    "mutual fund redemption",
+    "how to redeem",
+    "selling mutual funds",
+    "redemption process"
+  ],
+  "exit_load": [
+    "what is exit load",
+    "exit load fees",
+    "mutual fund exit charges",
+    "exit load penalty"
+  ],
+  "regulator_info": [
+    "who regulates mutual funds",
+    "sebi regulation",
+    "mutual fund regulator",
+    "securities and exchange board"
+  ],
+  "contact": [
+    "financial advisor",
+    "investment advisor",
+    "contact advisor",
+    "where to get investment advice"
+  ],
+  "farewell": [
+    "thank you",
+    "thanks",
+    "thank you so much",
+    "thanks a lot",
+    "thank you for your advice"
+  ],
+  "creator_info": [
+    "who created you",
+    "who made you",
+    "your creator",
+    "who is your creator",
+    "who built you"
+  ],
+  "bye": [
+    "bye", "goodbye", 
+    "see you", "take care"
+  ]
+
+}

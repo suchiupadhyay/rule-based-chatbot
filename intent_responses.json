@@ -1,0 +1,21 @@
+{
+    "greeting": "Hello! I can help you with information about Mutual Funds in India.",
+    "what_is_mf": "A mutual fund pools money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities.",
+    "types": "The main types of mutual funds in India are: Equity Funds, Debt Funds, Hybrid Funds, Index Funds, and ELSS.",
+    "nav_info": "NAV stands for Net Asset Value. It is the price per unit of a mutual fund, calculated at the end of each trading day.",
+    "how_to_invest": "You can invest in mutual funds either online (through AMC websites, apps, or broker platforms) or offline (via distributors or banks). Complete KYC, choose a scheme, and invest via SIP or lump sum.",
+    "minimum_investment_amount":"It can start from as low as ₹500 for SIP, depending on the scheme.",
+    "sip": "SIP (Systematic Investment Plan) allows you to invest a fixed amount at regular intervals in a mutual fund scheme.",
+    "lumpsum": "Lump sum investment means investing the entire amount in one go instead of in installments like SIP.",
+    "which_is_better_sip_lumpsum":"SIP invests periodically, lumpsum is one-time. Choice depends on your income & market conditions.",
+    "tax_benefits":"ELSS funds qualify for tax deductions under Section 80C (up to ₹1.5 lakh/year).",
+    "taxation": "Equity fund gains held for more than 1 year are taxed at 10% (LTCG), while short-term gains are taxed at 15%. Debt fund taxation differs — gains are taxed as per your income slab.",
+    "risk": "Mutual funds are subject to market risks. Equity funds have higher risk, debt funds lower. Always read scheme documents before investing.",
+    "redemption": "Redemption means selling your mutual fund units. The money is credited to your bank account after processing.",
+    "exit_load":"A small fee charged if you redemed units within a specific period, varies by scheme.",
+    "regulator_info":"SEBI (Securities and Exchange Board of India) regulates mutual funds in India",
+    "contact": "For specific investment advice, please consult a SEBI-registered financial advisor.",
+    "farewell": "You're welcome! If you have more questions later, feel free to ask.",
+    "creator_info": "I was created by Suchi, your friendly AI assistant!",
+    "bye": "Goodbye! Have a great day."
+}

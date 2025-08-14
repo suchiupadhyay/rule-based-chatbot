@@ -1,0 +1,86 @@
+{
+  "greeting": {
+    "required_words": ["hello", "hi", "hey","good","morning","evening"],
+    "one_word": true
+  },
+  "what_is_mf": {
+    "required_words": ["mutual", "fund", "mf"],
+    "one_word": true
+  },
+  "types": {
+    "required_words": ["types", "funds"],
+    "one_word": false
+  },
+  "nav_info": {
+    "required_words": ["nav"],
+    "one_word": true
+  },
+  "how_to_invest": {
+    "required_words": ["invest"],
+    "one_word": true
+  },
+  "investing": {
+    "required_words": ["investing"],
+    "one_word": true,
+    "map_to": "how_to_invest"
+  },
+  "minimum_investment_amount": {
+    "required_words": ["minimum", "investment"],
+    "one_word": false
+  },
+  "sip": {
+    "required_words": ["sip"],
+    "one_word": true
+  },
+  "lumpsum": {
+    "required_words": ["lumpsum", "lump", "sum"],
+    "one_word": true
+  },
+  "which_is_better_sip_lumpsum": {
+    "required_words": ["sip", "lumpsum"],
+    "one_word": false
+  },
+  "tax_benefits": {
+    "required_words": ["tax", "benefits", "elss", "80c"],
+    "one_word": true
+  },
+  "taxation": {
+    "required_words": ["tax", "capital", "gains"],
+    "one_word": false
+  },
+  "risk": {
+    "required_words": ["risk", "mutual", "funds"],
+    "one_word": true
+  },
+  "redemption": {
+    "required_words": ["redeem", "redemption", "sell"],
+    "one_word": true
+  },
+  "exit_load": {
+    "required_words": ["exit", "load"],
+    "one_word": false
+  },
+  "regulator_info": {
+    "required_words": ["sebi", "regulate", "regulation"],
+    "one_word": true
+  },
+  "contact": {
+    "required_words": ["advisor", "contact", "consult"],
+    "one_word": true
+  },
+  "farewell": {
+    "required_words": ["thank", "thanks", "thank you"],
+    "one_word": true
+  },
+  "creator_info": {
+    "required_words": ["who", "created", "creator", "made", "built", "your"],
+    "one_word": true
+  },
+  "bye":{
+    "required_words": ["bye", "goodbye", "see you", "take care"],
+    "one_word": true,
+    "pattern": "\\b(bye|goodbye|see you|take care)\\b",
+    "map_to": "bye"
+  }
+
+}

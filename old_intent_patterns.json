@@ -1,0 +1,23 @@
+{
+    "how_to_invest": {
+        "required_words": ["invest"],
+        "one_word": true
+    },
+    "nav_info": {
+        "required_words": ["nav"],
+        "one_word": true
+    },
+    "types_of_funds": {
+        "required_words": ["types", "funds"],
+        "one_word": false
+    },
+    "investing": {
+        "required_words": ["investing"],
+        "one_word": true,
+        "map_to": "how_to_invest"
+    },
+    "what_is_mf": {
+        "required_words": ["mf","mutual"],
+        "one_word": true
+    }
+}
